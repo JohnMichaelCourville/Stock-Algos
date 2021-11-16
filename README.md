@@ -1,8 +1,8 @@
 # Stock-Algos
-Producing buy or sell signals using machine and/or deep learning.
+Producing buy or sell signals using machine  learning.
 
+Predictor-A1 
 
-Open the Predictor-A1 file to begin. 
 
 Change 'data = pd.read_csv("BABA.csv")' by updating BABA.csv to any daily stock data you pull from yahoo finance. 
 
